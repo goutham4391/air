@@ -1,0 +1,13 @@
+var _AIRPORTS=[{code:"ABV",name:{en:"Abuja",ru:"\u0410\u0431\u0443\u0434\u0436\u0430",cn:"\u5C3C\u65E5\u5229\u4E9A\u963F\u5E03\u8D3E",es:"Abuja",pt:"Abuja"},lat:"9",lon:"7.25"},{code:"FACT",name:{en:"Cape Town",ru:"\u041A\u0435\u0439\u043F\u0442\u0430\u0443\u043D",cn:"\u5357\u975E\u5F00\u666E\u6566",es:"Cape Town",pt:"Cape Town"},lat:"-33.97",lon:"18.6"},{code:"VCP",name:{en:"S\xE3o Paulo",ru:"\u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443",cn:"\u5DF4\u897F\u5723\u4FDD\u7F57",es:"S\xE3o Paulo",pt:"S\xE3o Paulo"},lat:"-23.43",lon:"-46.47"},{code:"SYD",name:{en:"Sydney",ru:"\u0421\u0438\u0434\u043D\u0435\u0439",cn:"\u6FB3\u5927\u5229\u4E9A\u6089\u5C3C",es:"Sydney",pt:"Sydney"},lat:"-33.95",lon:"151.18"},{code:"ZBAA",name:{en:"Beijing",ru:"\u041F\u0435\u043A\u0438\u043D",cn:"\u4E2D\u56FD\u5317\u4EAC",es:"Beijing",pt:"Beijing"},lat:"40.08",lon:"116.58"},{code:"HKG",name:{en:"Hong Kong",ru:"\u0413\u043E\u043D\u043A\u043E\u043D\u0433",cn:"\u4E2D\u56FD\u9999\u6E2F",es:"Hong Kong",pt:"Hong Kong"},lat:"22.3",lon:"113.9"},{code:"LAX",name:{en:"Los Angeles",ru:"\u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441",cn:"\u7F8E\u56FD\u6D1B\u6749\u77F6",es:"Los Angeles",pt:"Los Angeles"},lat:"33.93",lon:"-118.4"},// {
+//     code: "SVO",
+//     name:{
+//         "en": "Moscow",
+//         "ru" : "Москва",
+//         "cn" : "俄罗斯莫斯科",
+//         "es" : "Moscow",
+//         "pt" : "Moscow"
+//     },
+//     lat: "55.52",
+//     lon: "37.5",
+// },
+{code:"DAL",name:{en:"Dallas",ru:"\u0414\u0430\u043B\u043B\u0430\u0441",cn:"\u7F8E\u56FD\u8FBE\u62C9\u65AF",es:"Dallas",pt:"Dallas"},lat:"32.83",lon:"-96.85"},{code:"NRT",name:{en:"Tokyo",ru:"\u0422\u043E\u043A\u0438\u043E",cn:"\u65E5\u672C\u4E1C\u4EAC",es:"Tokyo",pt:"Tokyo"},lat:"35.55",lon:"139.77"},{code:"DXB",name:{en:"Dubai",ru:"\u0414\u0443\u0431\u0430\u0439",cn:"\u963F\u8054\u914B\u8FEA\u62DC",es:"Dubai",pt:"Dubai"},lat:"25.25",lon:"55.35"},{code:"EZE",name:{en:"Buenos Aires",ru:"\u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441",cn:"\u963F\u6839\u5EF7\u5E03\u5B9C\u8BFA\u65AF\u827E\u5229\u65AF",es:"Buenos Aires",pt:"Buenos Aires"},lat:"-34.82",lon:"-58.53"},{code:"LHR",name:{en:"London",ru:"\u041B\u043E\u043D\u0434\u043E\u043D",cn:"\u82F1\u56FD\u4F26\u6566",es:"London",pt:"London"},lat:"51.87",lon:"-.35"},{code:"TEB",name:{en:"New York",ru:"\u041D\u044C\u044E-\u0419\u043E\u0440\u043A",cn:"\u7F8E\u56FD\u7EBD\u7EA6",es:"New York",pt:"New York"},lat:"40.85",lon:"-74.05"},{code:"BFI",name:{en:"Seattle",ru:"\u0421\u0438\u044D\u0442\u043B",cn:"\u7F8E\u56FD\u897F\u96C5\u56FE",es:"Seattle",pt:"Seattle"},lat:"47.52",lon:"-122.3"}];

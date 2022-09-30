@@ -1,0 +1,1 @@
+function scrollToJQ(a){var b=1<arguments.length&&arguments[1]!==void 0?arguments[1]:0,c=2<arguments.length&&arguments[2]!==void 0?arguments[2]:200,d=a.length?a.offset().top:100;$("html, body").animate({scrollTop:d-b},c)}// end scrollTo function
